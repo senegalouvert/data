@@ -1,0 +1,51 @@
+{
+  "name": "bond-yields-uk-10y",
+  "title": "Répartition de la population selon le sexe de 1970 à 2005",
+  "sources": [{
+    "name": "ANSD",
+    "web": "http://www.ansd.sn/publications/annuelles/population-du-Senegal/population_Senegal_1970_2005.pdf"
+  }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "Repartition_population_selon_sexe_1970_2005.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Années",
+            "type": "date",
+            "format": "yyyy"
+          },
+          {
+            "id": "Population totale",
+            "type": "number",
+            "description": "Total population"
+          },
+          {
+            "id": "Hommes",
+            "type": "number",
+          },
+          {
+            "id": "Femmes",
+            "type": "number",
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "Années",
+        "series": [ "Population totale" ]
+      }
+    }
+  ]
+}
