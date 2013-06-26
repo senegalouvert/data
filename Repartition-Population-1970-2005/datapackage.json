@@ -1,5 +1,5 @@
 {
-  "name": "bond-yields-uk-10y",
+  "name": "Repartition-Population-1970-2005",
   "title": "Répartition de la population selon le sexe de 1970 à 2005",
   "sources": [{
     "name": "ANSD",
@@ -28,11 +28,11 @@
           },
           {
             "id": "Hommes",
-            "type": "number",
+            "type": "number"
           },
           {
             "id": "Femmes",
-            "type": "number",
+            "type": "number"
           }
         ]
       }
