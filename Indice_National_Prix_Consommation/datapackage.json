@@ -1,0 +1,158 @@
+{
+  "name": "Indice_National_Prix_Consommation",
+  "title": "INDICE NATIONAL DES PRIX À LA CONSOMMATION (I.N.P.C.)",
+  "sources": [{
+    "name": "ANSD",
+    "web": "http://www.ansd.sn/INPC_mensuel.html"
+  }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "indice_national_prix_consommation.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Années",
+            "type": "date",
+            "format": "yyyy"
+          },
+          {
+            "id": "INDICE GLOBAL",
+            "type": "number",
+            "description": "Poids 10000"
+          },
+          {
+            "id": "ALIMENTATION ET BOISSON NON ALCOOLISÉES",
+            "type": "number",
+            "description": "Poids 5360"
+          },
+          {
+            "id": "Céréales non transformées",
+            "type": "number",
+            "description": "Poids 1006"
+          },
+          {
+            "id": "Pains",
+            "type": "number",
+            "description": "Poids 395"
+          },
+          {
+            "id": "Bœuf",
+            "type": "number",
+            "description": "Poids 327"
+          },
+          {
+            "id": "Poissons frais",
+            "type": "number",
+            "description": "Poids 322"
+          },
+          {
+            "id": "Lait",
+            "type": "number",
+            "description": "Poids 208"
+          },
+          {
+            "id": "Huiles",
+            "type": "number",
+            "description": "Poids 496"
+          },
+          {
+            "id": "Autres fruits frais",
+            "type": "number",
+            "description": "Poids 43"
+          },
+          {
+            "id": "Légumes frais en fruits ou racine",
+            "type": "number",
+            "description": "Poids 255"
+          },
+          {
+            "id": "Légumes frais en feuilles",
+            "type": "number",
+            "description": "Poids 109"
+          },
+          {
+            "id": "Sucre",
+            "type": "number",
+            "description": "Poids 346"
+          },
+          {
+            "id": "Sel. épices. sauces et produits alimentaires nda",
+            "type": "number",
+            "description": "Poids 338"
+          },
+          {
+            "id": "BOISSONS ALCOOLISÉES. TABAC ET STUPÉFIANT",
+            "type": "number",
+            "description": "Poids 73"
+          },
+          {
+            "id": "ARTICLES D'HABILLEMENT ET CHAUSSURES",
+            "type": "number",
+            "description": "Poids 647"
+          },
+          {
+            "id": "LOGEMENT. EAU. ÉLECTRICITÉ. GAZ ETAUTRES COMBUSTIBLES",
+            "type": "number",
+            "description": "Poids 1835"
+          },
+          {
+            "id": "MEUBLES. ARTICLES DE MÉNAGES ET ENTRETIEN COURANT DU FOYER",
+            "type": "number",
+            "description": "Poids 513"
+          },
+          {
+            "id": "SANTE",
+            "type": "number",
+            "description": "Poids 190"
+          },
+          {
+            "id": "TRANSPORTS",
+            "type": "number",
+            "description": "Poids 581"
+          },
+          {
+            "id": "COMMUNICATIONS",
+            "type": "number",
+            "description": "Poids 176"
+          },
+          {
+            "id": "LOISIRS ET CULTURES",
+            "type": "number",
+            "description": "Poids 132"
+          },
+          {
+            "id": "ENSEIGNEMENTS",
+            "type": "number",
+            "description": "Poids 109"
+          },
+          {
+            "id": "RESTAURANTS ET HÔTELS",
+            "type": "number",
+            "description": "Poids 121"
+          },
+          {
+            "id": "BIENS ET SERVICES DIVERS",
+            "type": "number",
+            "description": "Poids 263"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "Années",
+        "series": [ "INDICE GLOBAL" ]
+      }
+    }
+  ]
+}
