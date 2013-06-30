@@ -1,0 +1,168 @@
+{
+  "name": "Observatoires-Internet",
+  "title": "Observatoires le marché de l’internet ",
+  "sources": [{
+    "name": "ARTP",
+    "web": "http://www.artpsenegal.net/page_inter2.php?idmenu=7&id=10126&sid=10131&art=341&label=&page=Ann%E9e+2007"
+  }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "Internet.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Années",
+            "type": "date",
+            "format": "yyyy"
+          },
+          {
+            "id": "Parc total",
+            "type": "number",
+            "description": "Total Parc internet"
+          },
+          {
+            "id": "Croissance nette trimestrielle",
+            "type": "number"
+          },
+          {
+            "id": "Croissance en %",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Taux de pénétration",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "RTC",
+            "type": "number",
+            "description": "Nombre d’abonnés Internet & Bas Débit"
+          },
+          {
+            "id": "RTC Croissance nette trimestrielle",
+            "type": "number"
+          },
+          {
+            "id": "RTC Croissance en %",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "RTC en % du parc",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "ADSL",
+            "type": "number",
+            "description": "Nombre d’abonnés ADSL"
+          },
+          {
+            "id": "ADSL Croissance nette trimestrielle",
+            "type": "number"
+          },
+          {
+            "id": "ADSL Croissance en %",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "ADSL en % du parc total",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "LL",
+            "type": "number",
+            "description": "Nombre de liaisons louées Internet"
+          },
+          {
+            "id": "LL Croissance nette trimestrielle",
+            "type": "number"
+          },
+          {
+            "id": "LL Croissance en %",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "3G",
+            "type": "number",
+            "description": "Nombre d’abonnés Internet 3G"
+          },
+          {
+            "id": "3G Croissance nette trimestrielle",
+            "type": "number"
+          },
+          {
+            "id": "3G Croissance en %",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "3G En % du parc",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Sonatel",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Expresso",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Sonatel bas débit",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Expresso bas débit",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Sonatel ADSL",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Expresso ADSL",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Sonatel 3G",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Expresso 3G",
+            "type": "number",
+            "format": "percentage"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "Années",
+        "series": [ "Parc total","RTC","ADSL","3G","LL" ]
+      }
+    }
+  ]
+}
