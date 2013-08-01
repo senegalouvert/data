@@ -1,0 +1,745 @@
+{
+  "name": "Education",
+  "title": "INDICE NATIONAL DES PRIX À LA CONSOMMATION (I.N.P.C.)",
+  "sources": [{
+    "name": "La Banque Mondiale",
+    "web": "http://donnees.banquemondiale.org/pays/senegal"
+  }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "Education.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Années",
+            "type": "date",
+            "format": "yyyy"
+          },
+          {
+            "id": "",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+            {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+            {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+            {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+            {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+            {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+            {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          },
+          {
+            "id": "",
+            "type": "number",
+            "format": "percentage",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "Années",
+        "series": [ "INDICE GLOBAL" ]
+      }
+    }
+  ]
+}
