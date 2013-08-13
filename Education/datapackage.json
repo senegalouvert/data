@@ -527,7 +527,7 @@
       "type": "Graph",
       "state": {
         "group": "Années",
-        "series": [ "INDICE GLOBAL" ]
+        "series": [ "Inscription à l’école, primaire, privée","Inscription à l’école, secondaire, privée","Inscriptions à l’école, enseignement supérieur" ]
       }
     }
   ]
