@@ -1,4 +1,4 @@
-Il s’agit d’un tableau de bord qui, à‚ partir d’une batterie d’indicateurs, effectue des mesures d’ensemble pour déterminer le niveau de développement du systéme éducatif.
+Il s’agit d’un tableau de bord qui à partir d’une batterie d’indicateurs, effectue des mesures d’ensemble pour déterminer le niveau de développement du systéme éducatif.
 
 ## Situation de l'Education
 

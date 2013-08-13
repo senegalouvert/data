@@ -527,7 +527,7 @@
       "type": "Graph",
       "state": {
         "group": "Années",
-        "series": [ "Inscription à l’école, primaire, privée","Inscription à l’école, secondaire, privée","Inscriptions à l’école, enseignement supérieur" ]
+        "series": [ "Enfants n’allant pas à l’école primaire","Éducation primaire, nombre d’élèves","Éducation secondaire, élèves" ]
       }
     }
   ]
