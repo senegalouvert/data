@@ -526,6 +526,7 @@
       "id": "graph",
       "type": "Graph",
       "state": {
+        "graphType": "columns",
         "group": "Années",
         "series": [ "Éducation primaire, nombre d’élèves","Éducation secondaire, élèves","Enfants n’allant pas à l’école primaire" ]
       }
