@@ -1,6 +1,6 @@
 {
   "name": "Education",
-  "title": "INDICE NATIONAL DES PRIX À LA CONSOMMATION (I.N.P.C.)",
+  "title": "Situation de l'Education",
   "sources": [{
     "name": "La Banque Mondiale",
     "web": "http://donnees.banquemondiale.org/pays/senegal"
@@ -22,711 +22,500 @@
             "format": "yyyy"
           },
           {
-            "id": "",
+            "id": "Dépenses par élève de l’enseignement supérieur",
             "type": "number",
-            "description": ""
+            "description": "(% du PIB par habitant)"
           },
           {
-            "id": "",
+            "id": "Dépenses par élève du primaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du PIB par habitant)"
           },
           {
-            "id": "",
+            "id": "Dépenses par élève du secondaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du PIB par habitant)"
           },
           {
-            "id": "",
+            "id": "Dépenses publiques en éducation",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du PIB)"
           },
           {
-            "id": "",
+            "id": "Dépenses publiques en éducation, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des dépenses du gouvernement)"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Enfants n’allant pas à l’école primaire",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Enfants n’allant pas à l’école primaire, filles",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Enfants n’allant pas à l’école primaire, garçons",
+            "type": "number"
           },
           {
-            "id": "",
+            "id": "Enseignants formés dans l’éducation primaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du total des enseignants)"
           },
           {
-            "id": "",
+            "id": "Enseignants formés dans l’éducation primaire, femmes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des enseignantes)"
           },
           {
-            "id": "",
+            "id": "Enseignants formés dans l’éducation primaire, hommes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des enseignants)"
           },
             {
-            "id": "",
+            "id": "Enseignement tertiaire, nombre d’enseignants",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de femmes)"
           },
           {
-            "id": "",
+            "id": "Inscription à l’école, primaire, privée",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du total d’élèves au primaire)"
           },
           {
-            "id": "",
+            "id": "Inscription à l’école, secondaire, privée",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du total d’élèves au secondaire)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, enseignement supérieur",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, enseignement supérieur, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, enseignement supérieur, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, primaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, primaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, primaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, primaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, primaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, primaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, préscolaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, préscolaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, préscolaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, secondaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, secondaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, secondaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
-          },
-            {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
             {
-            "id": "",
+            "id": "Inscriptions à l’école, secondaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, secondaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% brut)"
           },
           {
-            "id": "",
+            "id": "Inscriptions à l’école, secondaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Poursuite des études jusqu’au CM2, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de cohorte)"
           },
           {
-            "id": "",
+            "id": "Poursuite des études jusqu’au CM2, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de cohorte)"
           },
           {
-            "id": "",
+            "id": "Poursuite des études jusqu’au CM2, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de cohorte)"
           },
           {
-            "id": "",
+            "id": "Poursuite des études jusqu’à la fin du cycle primaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de cohorte)"
           },
           {
-            "id": "",
+            "id": "Poursuite des études jusqu’à la fin du cycle primaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de cohorte)"
           },
           {
-            "id": "",
+            "id": "Poursuite des études jusqu’à la fin du cycle primaire, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de cohorte)"
           },
           {
-            "id": "",
+            "id": "Ratio de jeunes filles/garçons alphabétisés",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des 15 à 24 ans)"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Ratio femmes/homes des inscriptions dans l’enseignement supérieur",
+            "type": "number"
           },
           {
-            "id": "",
+            "id": "Ratio filles/garçons des inscriptions au primaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(%)"
           },
           {
-            "id": "",
+            "id": "Ratio filles/garçons des inscriptions au primaire et au secondaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(%)"
           },
           {
-            "id": "",
+            "id": "Ratio filles/garçons des inscriptions au secondaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(%)"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Ratio élève-enseignant au primaire",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Ratio élève-enseignant au secondaire",
+            "type": "number"
           },
           {
-            "id": "",
+            "id": "Redoublants, primaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des inscriptions de filles)"
           },
           {
-            "id": "",
+            "id": "Redoublants, primaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
-          },
-            {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "description": "(% des inscriptions de garçons)"
           },
           {
-            "id": "",
+            "id": "Redoublants, primaire, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des inscriptions totales)"
           },
           {
-            "id": "",
+            "id": "Redoublants, secondaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des inscriptions de filles)"
           },
           {
-            "id": "",
+            "id": "Redoublants, secondaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
-          },
-          {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "description": "(% des inscriptions de garçons)"
           },
             {
-            "id": "",
+            "id": "Redoublants, secondaire, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des inscriptions totales)"
           },
           {
-            "id": "",
+            "id": "Taux d’achèvement de l’école primaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du groupe d’âge pertinent)"
           },
           {
-            "id": "",
+            "id": "Taux d’achèvement de l’école primaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du groupe d’âge pertinent)"
           },
           {
-            "id": "",
+            "id": "Taux d’achèvement de l’école primaire, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du groupe d’âge pertinent)"
           },
           {
-            "id": "",
+            "id": "Taux d’alphabétisation des femmes adultes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de femmes âgées de 15 ans et plus)"
           },
           {
-            "id": "",
+            "id": "Taux d’alphabétisation des hommes adultes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% d’hommes âgés de 15 ans et plus)"
           },
           {
-            "id": "",
+            "id": "Taux d’alphabétisation des jeunes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des jeunes âgés de 15 à 24 ans)"
           },
           {
-            "id": "",
+            "id": "Taux d’alphabétisation des jeunes femmes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de femmes âgées de 15 à 24 ans)"
           },
           {
-            "id": "",
+            "id": "Taux d’alphabétisation des jeunes hommes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% d’hommes âgés de 15 à 24 ans)"
           },
           {
-            "id": "",
+            "id": "Taux d’alphabétisation, total des adultes",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% des personnes âgées de 15 ans et plus)"
           },
           {
-            "id": "",
+            "id": "Taux d’inscription brut au CP, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du groupe d’âge pertinent)"
           },
           {
-            "id": "",
+            "id": "Taux d’inscription brut au CP, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du groupe d’âge pertinent)"
           },
           {
-            "id": "",
+            "id": "Taux d’inscription brut au CP, total",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% du groupe d’âge pertinent)"
           },
           {
-            "id": "",
+            "id": "Taux d’inscription net en CP",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de la population officielle en âge d’aller à l’école)"
           },
           {
-            "id": "",
+            "id": "Taux d’inscription net en CP, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de la population officielle en âge d’aller à l’école)"
           },
           {
-            "id": "",
+            "id": "Taux d’inscription net en CP, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de la population officielle en âge d’aller à l’école)"
           },
           {
-            "id": "",
+            "id": "Total des inscriptions à l’école, primaire",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
+            "id": "Total des inscriptions à l’école, primaire, filles",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
             {
-            "id": "",
+            "id": "Total des inscriptions à l’école, primaire, garçons",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% net)"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Âge de début de l’école primaire (années)",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Âge de début de l’école secondaire (années)",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Éducation primaire, durée (années)",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Éducation primaire, nombre d’enseignants",
+            "type": "number"
           },
           {
-            "id": "",
+            "id": "Éducation primaire, nombre d’enseignants (% de femmes)",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de femmes)"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Éducation primaire, nombre d’élèves",
+            "type": "number"
           },
           {
-            "id": "",
+            "id": "Éducation primaire, nombre d’élèves (% de filles)",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de filles)"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Éducation secondaire, durée (années)",
+            "type": "number"
           },
           {
-            "id": "",
-            "type": "number",
-            "format": "percentage",
-            "description": ""
+            "id": "Éducation secondaire, enseignantes, femmes",
+            "type": "number"
           },
           {
-            "id": "",
+            "id": "Éducation secondaire, enseignants",
+            "type": "number"
+          },
+          {
+            "id": "Éducation secondaire, enseignants (% de femmes)",
             "type": "number",
             "format": "percentage",
-            "description": ""
+            "description": "(% de femmes)"
+          },
+          {
+            "id": "Éducation secondaire, élèves",
+            "type": "number"
+          },
+          {
+            "id": "Éducation secondaire, élèves (% de filles)",
+            "type": "number",
+            "format": "percentage",
+            "description": "(% de filles)"
+          },
+          {
+            "id": "Éducation secondaire, élèves en filiale professionnelle",
+            "type": "number"
+          },
+          {
+            "id": "Éducation secondaire, élèves en filiale professionnelle (% de filles)",
+            "type": "number",
+            "format": "percentage",
+            "description": "(% de filles)"
+          },
+          {
+            "id": "Éducation secondaire, élèves en secteur général",
+            "type": "number"
+          },
+          {
+            "id": "Éducation secondaire, élèves en secteur général",
+            "type": "number",
+            "format": "percentage",
+            "description": "(% de filles)"
+          },
+          {
+            "id": "Évolution vers l’école secondaire (%)",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Évolution vers l’école secondaire, filles (%)",
+            "type": "number",
+            "format": "percentage"
+          },
+          {
+            "id": "Évolution vers l’école secondaire, garçons (%)",
+            "type": "number",
+            "format": "percentage"
           }
         ]
       }
