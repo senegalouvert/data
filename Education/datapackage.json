@@ -527,7 +527,7 @@
       "type": "Graph",
       "state": {
         "group": "Années",
-        "series": [ "Enfants n’allant pas à l’école primaire","Éducation primaire, nombre d’élèves","Éducation secondaire, élèves" ]
+        "series": [ "Éducation primaire, nombre d’élèves","Éducation secondaire, élèves","Enfants n’allant pas à l’école primaire" ]
       }
     }
   ]
