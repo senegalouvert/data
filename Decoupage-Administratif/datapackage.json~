@@ -1,0 +1,49 @@
+{
+  "name": "Decoupage-Administratif",
+  "title": "Découpage administratif du Sénégal",
+  "sources": [{
+    "name": "Décret n° 2008-1025",
+    "web": "http://www.jo.gouv.sn/spip.php?article7213"
+  }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "Repartition_population_selon_sexe_1970_2005.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "REGION",
+            "type": "string"
+          },
+          {
+            "id": "DEPARTEMENTS",
+            "type": "string"
+          },
+          {
+            "id": "COMMUNES",
+            "type": "string"
+          },
+          {
+            "id": "ARRONDISSEMENTS",
+            "type": "string"
+          },
+          {
+            "id": "C0MMUNES d’ARRDT",
+            "type": "string",
+            "description": "Les villes d'une certaine taille sont subdivisées en communes d'arrondissement"
+          },
+          {
+            "id": "COMM. RURALES",
+            "type": "string",
+            "description": "Les autres localités sont des villages regroupés en communautés rurales"
+          }
+        ]
+      }
+    }
+  ]
+}

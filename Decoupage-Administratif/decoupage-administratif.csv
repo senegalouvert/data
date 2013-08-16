@@ -1,0 +1,131 @@
+REGION,DEPARTEMENTS,COMMUNES,ARRONDISSEMENTS,C0MMUNES d’ARRDT,COMM. RURALES
+DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Gorée,
+DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Dakar - Plateau,
+DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Gueule Tapée – Fass-Colobane,
+DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Fann - Point E - Amitié,
+DAKAR,Dakar,Dakar,GRAND DAKAR ,Grand Dakar,
+DAKAR,Dakar,Dakar,GRAND DAKAR ,Biscuiterie,
+DAKAR,Dakar,Dakar,GRAND DAKAR ,Dieuppeul – Derklé,
+DAKAR,Dakar,Dakar,GRAND DAKAR ,Hann - Bel Air,
+DAKAR,Dakar,Dakar,GRAND DAKAR ,Sicap - Liberté,
+DAKAR,Dakar,Dakar,GRAND DAKAR ,H.L.M,
+DAKAR,Dakar,Dakar,ALMADIES,Mermoz – Sacré Cœur,
+DAKAR,Dakar,Dakar,ALMADIES,Ouakam,
+DAKAR,Dakar,Dakar,ALMADIES,Ngor,
+DAKAR,Dakar,Dakar,ALMADIES,Yoff,
+DAKAR,Dakar,Dakar,PARCELLES ASSAINIES,Grand Yoff,
+DAKAR,Dakar,Dakar,PARCELLES ASSAINIES,Patte D’Oie,
+DAKAR,Dakar,Dakar,PARCELLES ASSAINIES,Parcelles Assainies,
+DAKAR,Dakar,Dakar,PARCELLES ASSAINIES,Cambérène,
+DAKAR,GUEDIAWAYE,Guédiawaye,GUEDIAWAYE,Golf Sud,
+DAKAR,GUEDIAWAYE,Guédiawaye,GUEDIAWAYE,Sam Notaire,
+DAKAR,GUEDIAWAYE,Guédiawaye,GUEDIAWAYE,Ndiarème Limamoulaye,
+DAKAR,GUEDIAWAYE,Guédiawaye,GUEDIAWAYE,Médina Gounass,
+DAKAR,GUEDIAWAYE,Guédiawaye,GUEDIAWAYE,Wakhinane Nimzath,
+DAKAR,GUEDIAWAYE,Guédiawaye,THIAROYE,Thiaroye Gare,
+DAKAR,GUEDIAWAYE,Guédiawaye,THIAROYE,Mbao,
+DAKAR,GUEDIAWAYE,Guédiawaye,THIAROYE,Thiaroye sur Mer,
+DAKAR,GUEDIAWAYE,Guédiawaye,THIAROYE,Tivaouane – Diack Sao,
+DAKAR,GUEDIAWAYE,Guédiawaye,THIAROYE,Diamagueune Sicap Mbao,
+DAKAR,GUEDIAWAYE,Pikine,NIAYES,Keur Massar,
+DAKAR,GUEDIAWAYE,Pikine,NIAYES,Malika,
+DAKAR,GUEDIAWAYE,Pikine,NIAYES,Yeumbeul Nord,
+DAKAR,GUEDIAWAYE,Pikine,NIAYES,Yeumbeul Sud,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Pikine Ouest,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Pikine Est,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Pikine Nord,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Dalifort,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Djidah Thiaroye Kao,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Guinaw Rail Nord,
+DAKAR,GUEDIAWAYE,Pikine,PIKINE DAGOUDAN,Guinaw Rail Sud,
+DAKAR,RUFISQUE,Rufisque,RUFISQUE - EST,Rufisque Est,
+DAKAR,RUFISQUE,Rufisque,RUFISQUE - EST,Bargny Rufisque Nord,
+DAKAR,RUFISQUE,Rufisque,RUFISQUE - EST,Diamniadio Rufisque Ouest,
+DAKAR,RUFISQUE,Rufisque,RUFISQUE - EST,Sébikotane,
+DAKAR,RUFISQUE,Rufisque,SANGALKAM,,Sangalkam Yenne
+DIOURBEL,BAMBEY,Bambey,BABA GARAGE,Dinguiraye,
+DIOURBEL,BAMBEY,Bambey,BABA GARAGE,Baba Garage,
+DIOURBEL,BAMBEY,Bambey,BABA GARAGE,Keur Samba Kane,
+DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye ,Thiakhar,
+DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye ,Ndondol,
+DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye ,Ndangalma,
+DIOURBEL,BAMBEY,Bambey,LAMBAYE,Lambaye,
+DIOURBEL,BAMBEY,Bambey,LAMBAYE,Réfane,
+DIOURBEL,BAMBEY,Bambey,LAMBAYE,Gawane,
+DIOURBEL,BAMBEY,Bambey,LAMBAYE,Ngogom,
+DIOURBEL,DIOURBEL,Diourbel,NDOULO,Ndoulo,
+DIOURBEL,DIOURBEL,Diourbel,NDOULO,Ngohe,
+DIOURBEL,DIOURBEL,Diourbel,NDOULO,Pattar,
+DIOURBEL,DIOURBEL,Diourbel,NDOULO,Tocky Gare,
+DIOURBEL,DIOURBEL,Diourbel,NDOULO,Touré Mbondé,
+DIOURBEL,DIOURBEL,Diourbel,NDINDY,Ndankh Séne,
+DIOURBEL,DIOURBEL,Diourbel,NDINDY,Gade Escale,
+DIOURBEL,DIOURBEL,Diourbel,NDINDY,Keur Ngalgou,
+DIOURBEL,DIOURBEL,Diourbel,NDINDY,Ndindy,
+DIOURBEL,DIOURBEL,Diourbel,NDINDY,Taïba Moutoupha,
+DIOURBEL,MBACKE,Mbacké,NDAME,Touba Mosquée,
+DIOURBEL,MBACKE,Mbacké,NDAME,Dalla Ngabou,
+DIOURBEL,MBACKE,Mbacké,NDAME,Missirah,
+DIOURBEL,MBACKE,Mbacké,NDAME,Nghaye,
+DIOURBEL,MBACKE,Mbacké,NDAME,Touba Fall,
+DIOURBEL,MBACKE,Mbacké,Kael,Madina,
+DIOURBEL,MBACKE,Mbacké,Kael,KAEL Touba Mboul,
+DIOURBEL,MBACKE,Mbacké,Kael,Dendèye Gouy Gui,
+DIOURBEL,MBACKE,Mbacké,Kael,Ndioumane Taïba Thièkène,
+DIOURBEL,MBACKE,Mbacké,TAIF,Taïf,
+DIOURBEL,MBACKE,Mbacké,TAIF,Sadio,
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Diakhao 
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Diaoulé 
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Mbéllacadiao 
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Ndiop
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Djilasse 
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Fimela 
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Loul Sessène 
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Palmarin Facao
+FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Niakhar 
+FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Ngayokhème 
+FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Patar
+FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Diarrère 
+FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Diouroup 
+FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Tattaguine
+FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Keur Saloum Diané
+FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Keur Samba Guèye 
+FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Tobacouta
+FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Nioro Alassane Talla
+FATICK,FOUNDIOUGNE,Foundiougne Passy,,,
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,DJILOR,,Diossong 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,DJILOR,,Djilor 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Bassoul
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Dionewar 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Djirnda
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,COLOBANE,,Colobane 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,COLOBANE,,Mbar 
+FATICK,GOSSAS,Gossas,OUADIOUR,,Ndiene Lagan
+FATICK,GOSSAS,Gossas,OUADIOUR,,Ouadiour
+FATICK,GOSSAS,Gossas,OUADIOUR,,Patar Lia 
+KAFFRINE,KEUR MBOUCKI,,BIRKELANE,,Keur Mboucki 
+KAFFRINE,KEUR MBOUCKI,,BIRKELANE,,Birkelane
+KAFFRINE,KEUR MBOUCKI,,MABO,,Mabo 
+KAFFRINE,KEUR MBOUCKI,,MABO,,Ndiognick
+KAFFRINE,KEUR MBOUCKI,,MABO,,Touba Mbella
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Diamagadio 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Diokoul Belbouck 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Kathiotte 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Médinatoul Salam 2 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Gniby 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Boulel 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Kahi 
+KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Missirah Wadène 
+KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Maka Yop
+KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Ngainthe Pathé 
+KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Fass Thièkène 
+KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Saly Escale 
+KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Ida Mouride 
+KAFFRINE,KOUNGHEUL,Koungheul,LOUR ESCALE,,Ribot Escale 
+KAFFRINE,KOUNGHEUL,Koungheul,LOUR ESCALE,,Lour Escale 
+KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Darou Miname 2 
+KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Khelcom 
+KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Ndioum Ngainth 
+KAFFRINE,MALEM HODDAR,Malem Hoddar,SAGNA,,Sagna 
+KAFFRINE,MALEM HODDAR,Malem Hoddar,SAGNA,,Dianké Souf
+KAOLACK,,,,,
