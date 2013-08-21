@@ -3,12 +3,12 @@ DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Gorée,
 DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Dakar - Plateau,
 DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Gueule Tapée – Fass-Colobane,
 DAKAR,Dakar,Dakar,DAKAR-PLATEAU,Fann - Point E - Amitié,
-DAKAR,Dakar,Dakar,GRAND DAKAR ,Grand Dakar,
-DAKAR,Dakar,Dakar,GRAND DAKAR ,Biscuiterie,
-DAKAR,Dakar,Dakar,GRAND DAKAR ,Dieuppeul – Derklé,
-DAKAR,Dakar,Dakar,GRAND DAKAR ,Hann - Bel Air,
-DAKAR,Dakar,Dakar,GRAND DAKAR ,Sicap - Liberté,
-DAKAR,Dakar,Dakar,GRAND DAKAR ,H.L.M,
+DAKAR,Dakar,Dakar,GRAND DAKAR,Grand Dakar,
+DAKAR,Dakar,Dakar,GRAND DAKAR,Biscuiterie,
+DAKAR,Dakar,Dakar,GRAND DAKAR,Dieuppeul – Derklé,
+DAKAR,Dakar,Dakar,GRAND DAKAR,Hann - Bel Air,
+DAKAR,Dakar,Dakar,GRAND DAKAR,Sicap - Liberté,
+DAKAR,Dakar,Dakar,GRAND DAKAR,H.L.M,
 DAKAR,Dakar,Dakar,ALMADIES,Mermoz – Sacré Cœur,
 DAKAR,Dakar,Dakar,ALMADIES,Ouakam,
 DAKAR,Dakar,Dakar,ALMADIES,Ngor,
@@ -46,9 +46,9 @@ DAKAR,RUFISQUE,Rufisque,SANGALKAM,,Sangalkam Yenne
 DIOURBEL,BAMBEY,Bambey,BABA GARAGE,Dinguiraye,
 DIOURBEL,BAMBEY,Bambey,BABA GARAGE,Baba Garage,
 DIOURBEL,BAMBEY,Bambey,BABA GARAGE,Keur Samba Kane,
-DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye ,Thiakhar,
-DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye ,Ndondol,
-DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye ,Ndangalma,
+DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye,Thiakhar,
+DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye,Ndondol,
+DIOURBEL,BAMBEY,Bambey,NGOYE Ngoye,Ndangalma,
 DIOURBEL,BAMBEY,Bambey,LAMBAYE,Lambaye,
 DIOURBEL,BAMBEY,Bambey,LAMBAYE,Réfane,
 DIOURBEL,BAMBEY,Bambey,LAMBAYE,Gawane,
@@ -74,58 +74,313 @@ DIOURBEL,MBACKE,Mbacké,Kael,Dendèye Gouy Gui,
 DIOURBEL,MBACKE,Mbacké,Kael,Ndioumane Taïba Thièkène,
 DIOURBEL,MBACKE,Mbacké,TAIF,Taïf,
 DIOURBEL,MBACKE,Mbacké,TAIF,Sadio,
-FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Diakhao 
-FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Diaoulé 
-FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Mbéllacadiao 
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Diakhao
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Diaoulé
+FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Mbéllacadiao
 FATICK,FATICK Dioffior,Fatick,DIAKHAO,,Ndiop
-FATICK,FATICK Dioffior,Fatick,FIMELA,,Djilasse 
-FATICK,FATICK Dioffior,Fatick,FIMELA,,Fimela 
-FATICK,FATICK Dioffior,Fatick,FIMELA,,Loul Sessène 
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Djilasse
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Fimela
+FATICK,FATICK Dioffior,Fatick,FIMELA,,Loul Sessène
 FATICK,FATICK Dioffior,Fatick,FIMELA,,Palmarin Facao
-FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Niakhar 
-FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Ngayokhème 
+FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Niakhar
+FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Ngayokhème
 FATICK,FATICK Dioffior,Fatick,NIAKHAR,,Patar
-FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Diarrère 
-FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Diouroup 
+FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Diarrère
+FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Diouroup
 FATICK,FATICK Dioffior,Fatick,TATTAGUINE,,Tattaguine
 FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Keur Saloum Diané
-FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Keur Samba Guèye 
+FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Keur Samba Guèye
 FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Tobacouta
 FATICK,FATICK Dioffior,Fatick,TOUBACOUTA,,Nioro Alassane Talla
 FATICK,FOUNDIOUGNE,Foundiougne Passy,,,
-FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,DJILOR,,Diossong 
-FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,DJILOR,,Djilor 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,DJILOR,,Diossong
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,DJILOR,,Djilor
 FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Bassoul
-FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Dionewar 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Dionewar
 FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,NIODIOR,,Djirnda
-FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,COLOBANE,,Colobane 
-FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,COLOBANE,,Mbar 
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,COLOBANE,,Colobane
+FATICK,FOUNDIOUGNE,Sokone Soum Karang Post,COLOBANE,,Mbar
 FATICK,GOSSAS,Gossas,OUADIOUR,,Ndiene Lagan
 FATICK,GOSSAS,Gossas,OUADIOUR,,Ouadiour
-FATICK,GOSSAS,Gossas,OUADIOUR,,Patar Lia 
-KAFFRINE,KEUR MBOUCKI,,BIRKELANE,,Keur Mboucki 
+FATICK,GOSSAS,Gossas,OUADIOUR,,Patar Lia
+KAFFRINE,KEUR MBOUCKI,,BIRKELANE,,Keur Mboucki
 KAFFRINE,KEUR MBOUCKI,,BIRKELANE,,Birkelane
-KAFFRINE,KEUR MBOUCKI,,MABO,,Mabo 
+KAFFRINE,KEUR MBOUCKI,,MABO,,Mabo
 KAFFRINE,KEUR MBOUCKI,,MABO,,Ndiognick
 KAFFRINE,KEUR MBOUCKI,,MABO,,Touba Mbella
-KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Diamagadio 
-KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Diokoul Belbouck 
-KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Kathiotte 
-KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Médinatoul Salam 2 
-KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Gniby 
-KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Boulel 
-KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Kahi 
-KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Missirah Wadène 
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Diamagadio
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Diokoul Belbouck
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Kathiotte
+KAFFRINE,KAFFRINE,Kaffrine Nganda,KATAKEL,,Médinatoul Salam 2
+KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Gniby
+KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Boulel
+KAFFRINE,KAFFRINE,Kaffrine Nganda,GNIBY,,Kahi
+KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Missirah Wadène
 KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Maka Yop
-KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Ngainthe Pathé 
-KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Fass Thièkène 
-KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Saly Escale 
-KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Ida Mouride 
-KAFFRINE,KOUNGHEUL,Koungheul,LOUR ESCALE,,Ribot Escale 
-KAFFRINE,KOUNGHEUL,Koungheul,LOUR ESCALE,,Lour Escale 
-KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Darou Miname 2 
-KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Khelcom 
-KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Ndioum Ngainth 
-KAFFRINE,MALEM HODDAR,Malem Hoddar,SAGNA,,Sagna 
+KAFFRINE,KOUNGHEUL,Koungheul,MISSIRAH WADENE,,Ngainthe Pathé
+KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Fass Thièkène
+KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Saly Escale
+KAFFRINE,KOUNGHEUL,Koungheul,IDA MOURIDE,,Ida Mouride
+KAFFRINE,KOUNGHEUL,Koungheul,LOUR ESCALE,,Ribot Escale
+KAFFRINE,KOUNGHEUL,Koungheul,LOUR ESCALE,,Lour Escale
+KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Darou Miname 2
+KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Khelcom
+KAFFRINE,MALEM HODDAR,Malem Hoddar,DAROU MINAME 2,,Ndioum Ngainth
+KAFFRINE,MALEM HODDAR,Malem Hoddar,SAGNA,,Sagna
 KAFFRINE,MALEM HODDAR,Malem Hoddar,SAGNA,,Dianké Souf
-KAOLACK,,,,,
+KAOLACK,MBADAKHOUNE,Guinguinéo,GUINGUINEO,,Khelcom - Birane 
+KAOLACK,MBADAKHOUNE,Guinguinéo,GUINGUINEO,,Mbadakhoune 
+KAOLACK,MBADAKHOUNE,Guinguinéo,GUINGUINEO,,Ndiago 
+KAOLACK,MBADAKHOUNE,Guinguinéo,GUINGUINEO,,Ngathie Naoudé
+KAOLACK,MBADAKHOUNE,Guinguinéo,NGUELOU,,Gagnick 
+KAOLACK,MBADAKHOUNE,Guinguinéo,NGUELOU,,Mboss 
+KAOLACK,MBADAKHOUNE,Guinguinéo,NGUELOU,,Ourour
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,KOUMBAL,,Keur Baka
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,KOUMBAL,,Latmingué
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,KOUMBAL,,Thiaré
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,NDIEDIENG,,Keur Socé
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,NDIEDIENG,,Ndiaffate
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,NDIEDIENG,,Ndiedieng
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,SIBASSOR,,Dya
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,SIBASSOR,,Ndiébel
+KAOLACK,KAOLACK,Kaolack Kahone Ndoffane Gandiaye,SIBASSOR,,Thiomby
+KAOLACK,NIORO,Nioro Keur Madiabel,MEDINA SABAKH,,Kayemor
+KAOLACK,NIORO,Nioro Keur Madiabel,MEDINA SABAKH,,Médina Sabakh
+KAOLACK,NIORO,Nioro Keur Madiabel,MEDINA SABAKH,,Ngayene
+KAOLACK,NIORO,Nioro Keur Madiabel,PAOS KOTO,,Gainthe Kaye
+KAOLACK,NIORO,Nioro Keur Madiabel,PAOS KOTO,,Paos Koto
+KAOLACK,NIORO,Nioro Keur Madiabel,PAOS KOTO,,Porokhane
+KAOLACK,NIORO,Nioro Keur Madiabel,PAOS KOTO,,Taïba Niassène
+KAOLACK,NIORO,Nioro Keur Madiabel,WACK NGOUNA,,Keur Maba Diakhou
+KAOLACK,NIORO,Nioro Keur Madiabel,WACK NGOUNA,,Keur Madongo
+KAOLACK,NIORO,Nioro Keur Madiabel,WACK NGOUNA,,Ndramé Escale
+KAOLACK,NIORO,Nioro Keur Madiabel,WACK NGOUNA,,Wack Ngouna
+KEDOUGOU,KEDOUGOU ,Kédougou,BANDAFASSI,,Tomboroncoto
+KEDOUGOU,KEDOUGOU ,Kédougou,BANDAFASSI,,Dindefelo Ninéfécha
+KEDOUGOU,KEDOUGOU ,Kédougou,BANDAFASSI,,Bandafassi
+KEDOUGOU,KEDOUGOU ,Kédougou,FONGOLIMBI,,Fongolimbi
+KEDOUGOU,KEDOUGOU ,Kédougou,FONGOLIMBI,,Dimboli
+KEDOUGOU,SALEMATA,Salémata,DAKATELI,,Thiankoye
+KEDOUGOU,SALEMATA,Salémata,DAKATELI,,Dakatéli
+KEDOUGOU,SALEMATA,Salémata,DAR SALAM,,Ethiolo
+KEDOUGOU,SALEMATA,Salémata,DAR SALAM,,Oubadj
+KEDOUGOU,SALEMATA,Salémata,DAR SALAM,,Dar Salam
+KEDOUGOU,SARAYA,Saraya,BEMBOU,,Bembou
+KEDOUGOU,SARAYA,Saraya,BEMBOU,,Médina Baffé
+KEDOUGOU,SARAYA,Saraya,SABODALA,,Sabodala
+KEDOUGOU,SARAYA,Saraya,SABODALA,,Khossanto
+KEDOUGOU,SARAYA,Saraya,SABODALA,,Missirah Sirimana
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,MAMPATIM,,Dialambéré Médina Chérif Bagadadji Mampatim Coumbacara
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,SARE BIDJI,,Thiétty
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,SARE BIDJI,,Saré Bidji
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,DIOULACOLON,,Guiro Yéro Bocar
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,DIOULACOLON,,Dioulacolon
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,DIOULACOLON,,Tankanto Escale
+KOLDA,KOLDA,Kolda Dabo Salikégné Saré YobaDiéga ,DIOULACOLON,,Médina El Hadj
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,FAFACOUROU Badion Fafacourou,,
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NDORNA,,Bourouco
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NDORNA,,Bignarabé
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NDORNA,,Ndorna
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NDORNA,,Koulinto
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NIAMING,,Niaming
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NIAMING,,Dinguiraye
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,NIAMING,,Kéréwane
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,SARE COLY SALLE,,Kandiaye
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,SARE COLY SALLE,,Saré Coly Sallé
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,SARE COLY SALLE,,Kandia
+KOLDA,MEDINA YORO FOULAH,Médina Yoro Foulah Pata,SARE COLY SALLE,,Némataba
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,PAKOUR,,Pakour
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,PAKOUR,,Paroumba
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,PAKOUR,,Ouassadou
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,BONCONTO,,Bonconto
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,BONCONTO,,Linkering
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,BONCONTO,,Médina Gounass
+KOLDA,VELINGARA,Vélingara Kounkané Diaobé-Kabendou,BONCONTO,,Sinthiang Koundara
+LOUGA,KEBEMER ,Kébémer Guéoul,NDANDE,,Bandegne Ouolof
+LOUGA,KEBEMER ,Kébémer Guéoul,NDANDE,,Diokoul Diawrigne
+LOUGA,KEBEMER ,Kébémer Guéoul,NDANDE,,Kab Gaye
+LOUGA,KEBEMER ,Kébémer Guéoul,NDANDE,,Ndande
+LOUGA,KEBEMER ,Kébémer Guéoul,NDANDE,,Thieppe
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Mbacké Cajor
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Darou Marnane
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Darou Mousty
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Mbadiane
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Ndoyene
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Sam Yabal
+LOUGA,KEBEMER ,Kébémer Guéoul,DAROU MOUSTY,,Touba Mérina
+LOUGA,KEBEMER ,Kébémer Guéoul,SAGATTA,,Ngourane Ouolof
+LOUGA,KEBEMER ,Kébémer Guéoul,SAGATTA,,Thiolom Fall
+LOUGA,KEBEMER ,Kébémer Guéoul,SAGATTA,,Sagatta Gueth
+LOUGA,KEBEMER ,Kébémer Guéoul,SAGATTA,,Kanène Ndiob
+LOUGA,KEBEMER ,Kébémer Guéoul,SAGATTA,,Loro
+LOUGA,KEBEMER ,BARKEDJI,Barkédji Gassane Thiarny Thiel,,
+LOUGA,KEBEMER ,BARKEDJI,SAGATTA,,DJOLOF Boulal
+LOUGA,KEBEMER ,BARKEDJI,SAGATTA,,Dealy
+LOUGA,KEBEMER ,BARKEDJI,SAGATTA,,Thiamène Passe
+LOUGA,KEBEMER ,BARKEDJI,SAGATTA,,Sagatta Djolof
+LOUGA,LINGUERE ,Linguère Dahra,DODJI,,Dodji
+LOUGA,LINGUERE ,Linguère Dahra,DODJI,,Labgar
+LOUGA,LINGUERE ,Linguère Dahra,DODJI,,Ouarkhokh
+LOUGA,LINGUERE ,Linguère Dahra,YANG YANG,,Kamb Mbeuleukhé
+LOUGA,LINGUERE ,Linguère Dahra,YANG YANG,,Mboula
+LOUGA,LINGUERE ,Linguère Dahra,YANG YANG,,Téssékéré Forage
+LOUGA,LOUGA,Louga,COKI Coki,,Ndiagne
+LOUGA,LOUGA,Louga,COKI Coki,,Thiamène
+LOUGA,LOUGA,Louga,COKI Coki,,Pété Ouarack
+LOUGA,LOUGA,Louga,KEUR MOMAR SARR,,Keur Momar Sarr Nguer Malal
+LOUGA,LOUGA,Louga,KEUR MOMAR SARR,,Syer
+LOUGA,LOUGA,Louga,KEUR MOMAR SARR,,Gande
+LOUGA,LOUGA,Louga,MBEDIENE,,Mbédiene
+LOUGA,LOUGA,Louga,MBEDIENE,,Niomré
+LOUGA,LOUGA,Louga,MBEDIENE,,Nguidilé
+LOUGA,LOUGA,Louga,MBEDIENE,,Kéle Gueye
+LOUGA,LOUGA,Louga,SAKAL,,Léona
+LOUGA,LOUGA,Louga,SAKAL,,Ngueune Sarr
+LOUGA,LOUGA,Louga,SAKAL,,Sakal
+MATAM,KANEL,Kanel Ouaoundé Semmé Dembancané,WOURO SIDY,,Wouro Sidy
+MATAM,KANEL,Kanel Ouaoundé Semmé Dembancané,WOURO SIDY,,Ndendory
+MATAM,MATAM,Hamady Hounaré Sinthiou Bamambé-Banadji,ORKADIERE,,Aouré
+MATAM,MATAM,Hamady Hounaré Sinthiou Bamambé-Banadji,ORKADIERE,,Bokiladji
+MATAM,MATAM,Hamady Hounaré Sinthiou Bamambé-Banadji,ORKADIERE,,Orkadiéré
+MATAM,MATAM,Matam Ourossogui Thilogne,AGNAM CIVOL,,Dabia
+MATAM,MATAM,Matam Ourossogui Thilogne,AGNAM CIVOL,,Des Agnam
+MATAM,MATAM,Matam Ourossogui Thilogne,AGNAM CIVOL,,Oréfondé
+MATAM,RANEROU FERLO,Matam Ourossogui Thilogne,OGO,,Bokidiawé
+MATAM,RANEROU FERLO,Matam Ourossogui Thilogne,OGO,,Nabadji Civol
+MATAM,RANEROU FERLO,Matam Ourossogui Thilogne,OGO,,Ogo
+MATAM,RANEROU FERLO,Ranérou,VELINGARA,,Lougré Thioly
+MATAM,RANEROU FERLO,Ranérou,VELINGARA,,Oudalaye
+MATAM,RANEROU FERLO,Ranérou,VELINGARA,,Vélingara
+SAINT LOUIS,DAGANA ,Dagana Richard Toll Rosso Diama Gaé,NDIAYE,,Ngnith
+SAINT LOUIS,DAGANA ,Dagana Richard Toll Rosso Diama Gaé,NDIAYE,,Ronkh
+SAINT LOUIS,DAGANA ,Ross-Béthio ,MBANE,,Bokhol
+SAINT LOUIS,DAGANA ,Ross-Béthio ,MBANE,,Mbane
+SAINT LOUIS,PODOR ,Podor Golléré Ndioum Niandane Mbouma,CAS CAS,,Méry
+SAINT LOUIS,PODOR ,Podor Golléré Ndioum Niandane Mbouma,CAS CAS,,Aéré Lao
+SAINT LOUIS,PODOR ,Podor Golléré Ndioum Niandane Mbouma,CAS CAS,,Madina Diathbé
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,GAMADJI SARE,,Gamadji Saré
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,GAMADJI SARE,,Dodel
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,GAMADJI SARE,,Guedé Village
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,THILE BOUBACAR,,Fanaye
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,THILE BOUBACAR,,Ndiayene Peindao
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,SALDE,,Mbolo Birane
+SAINT LOUIS,PODOR ,Guédé Chantier Démette Galoya Toucouleur,SALDE,,Pété
+SAINT LOUIS,SAINT LOUIS ,Saint Louis Mpal,RAO,,Fass Ngom
+SAINT LOUIS,SAINT LOUIS ,Saint Louis Mpal,RAO,,Ndiébène Gandiole
+SAINT LOUIS,SAINT LOUIS ,Saint Louis Mpal,RAO,,Gandon
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,,,
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BOGHAL,,Boghal
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BOGHAL,,Tankon
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BOGHAL,,Ndiamacouta
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BONA,,Diacounda
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BONA,,Inor
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BONA,,Kandion Mangana
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,BONA,,Bona
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,DIAROUME,,Diambati
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,DIAROUME,,Faoune
+SEDHIOU,BOUNKILING ,Bounkiling Madina Wandifa,DIAROUME,,Diaroumé
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DIAROUME,,
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIBANAR,,Yarang Balante
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIBANAR,,Mangaroungou Santo
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIBANAR,,Simbandi Balante
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIBANAR,,Djibanar
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIBANAR,,Kaour
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,SIMBANDI BRASSOU,,Diouboudou
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,SIMBANDI BRASSOU,,Simbandi Brassou
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,SIMBANDI BRASSOU,,Niagha
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,KARANTABA,,Karantaba
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,KARANTABA,,Kolibantang
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIREDJI,,Djiredji
+SEDHIOU,GOUDOMP ,Goudomp Samine Tanaff Diattacounda,DJIREDJI,,Bambaly
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,,,DIENDE Oudoucar
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,,,Koussy
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,,,Sakar
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,,,Diendé
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,DJIBABOUYA,,San Samba
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,DJIBABOUYA,,Bémet Bidjini
+SEDHIOU,SEDHIOU,Sédhiou Diannah Malary Marsassoum,DJIBABOUYA,,Djibabouya
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,BELE,,Bélé
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,BELE,,Sinthiou Fissa
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,KENIEBA,,Toumboura Sadatou
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,KENIEBA,,Madina Foulbé
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,MOUDERY,,Moudery
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,MOUDERY,,Ballou
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,MOUDERY,,Gabou
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,BOYNGUEL BAMBA,,Boynguel Bamba
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,BOYNGUEL BAMBA,,Sinthiou Mamadou Boubou
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,BOYNGUEL BAMBA,,Koussan
+TAMBACOUNDA,BAKEL ,Bakel Kidira Diawara,BOYNGUEL BAMBA,,Dougué
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,DIANKE MAKHA,,Dianké Makha
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,DIANKE MAKHA,,Boutoucoufara
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,DIANKE MAKHA,,Bani Israel
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,DIANKE MAKHA,,Komoti
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,KOULOR,,Sinthiou Bocar Aly
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,KOULOR,,Koulor
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,BALA,,Bala
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,BALA,,Koar
+TAMBACOUNDA,GOUDIRY,Goudiry Kothiary,BALA,,Goumbayel
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,BAMBA THIALENE,,Ndame
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,BAMBA THIALENE,,Kahène
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,BAMBA THIALENE,,Bamba Thialène
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,KOUTHIABA WOLOF,,Payar
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,KOUTHIABA WOLOF,,Kouthiaba Wolof
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,KOUTHIABA WOLOF,,Malème Niani
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,MAKACOLIBANTANG,,Niani Toucouleur
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,MAKACOLIBANTANG,,Makacolibantang
+TAMBACOUNDA,KOUPENTOUM,Koumpentoum,MAKACOLIBANTANG,,Ndoga Babacar
+TAMBACOUNDA,TAMBA,Tambacounda,MISSIRAH,,Dialacoto Missirah
+TAMBACOUNDA,TAMBA,Tambacounda,MISSIRAH,,Néttéboulou
+TAMBACOUNDA,TAMBA,Tambacounda,KOUSSANAR ,,Sinthiou Malème
+TAMBACOUNDA,TAMBA,Tambacounda,KOUSSANAR ,,Koussanar
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,FISSEL,,Fissel
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,FISSEL,,Ndiaganiao
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,SESSENE,,Sessene
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,SESSENE,,Sandiara
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,SESSENE,,Nguéniène
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,SINDIA,,Sindia Mbour Malicounda
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,THIENABA,,Thiénaba
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,THIENABA,,Ngoudiane
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,THIENABA,,Ndiéyène Sirakh
+THIES,MBOUR,Joal – Fadhiouth Diass Nguekhokh Thiadiaye Saly Portudal Ngaparou Somone Popenguine,THIENABA,,Touba Toul
+THIES,THIES,Thies Kayar Khombole Pout,KEUR MOUSSA,,Keur Moussa Diender
+THIES,THIES,Thies Kayar Khombole Pout,KEUR MOUSSA,,Fandène
+THIES,THIES,Thies Kayar Khombole Pout,NOTTO,,Notto
+THIES,THIES,Thies Kayar Khombole Pout,NOTTO,,Tassète
+THIES,THIES,Thies Kayar Khombole Pout,MEOUANE,,Méouane
+THIES,THIES,Thies Kayar Khombole Pout,MEOUANE,,Darou Khoudoss
+THIES,THIES,Thies Kayar Khombole Pout,MEOUANE,,Taïba Ndiaye
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,MERINA DAKHAR,,Mérina Dakhar
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,MERINA DAKHAR,,Koul
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,MERINA DAKHAR,,Pékèsse
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,NIAKHENE,,Niakhène
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,NIAKHENE,,Mbayène
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,NIAKHENE,,Thilmakha
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,NIAKHENE,,Ngandiouf
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,PAMBAL,,Notto Gouye Diama
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,PAMBAL,,Mont Rolland
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,PAMBAL,,Pire Goureye
+THIES,TIVAOUANE,Tivaouane Mboro Mékhé,PAMBAL,,Chérif Lo
+ZIGUINCHOR,ZIGUINCHOR,Ziguinchor,NIAGUIS,,Niaguis
+ZIGUINCHOR,ZIGUINCHOR,Ziguinchor,NIAGUIS,,Adéane
+ZIGUINCHOR,ZIGUINCHOR,Ziguinchor,NIAGUIS,,Boutoupa Camaracounda
+ZIGUINCHOR,ZIGUINCHOR,Ziguinchor,NIASSIA,,Niassia
+ZIGUINCHOR,ZIGUINCHOR,Ziguinchor,NIASSIA,,Enampore
+ZIGUINCHOR,OUSSOUYE,Oussouye,CABROUSSE,,Diembéring
+ZIGUINCHOR,OUSSOUYE,Oussouye,CABROUSSE,,Santhiaba Manjack
+ZIGUINCHOR,OUSSOUYE,Oussouye,LOUDIA OUOLOF,,Oukout
+ZIGUINCHOR,OUSSOUYE,Oussouye,LOUDIA OUOLOF,,Mlomp
+ZIGUINCHOR,OUSSOUYE,Oussouye,KATABA 1,,Kataba 1
+ZIGUINCHOR,OUSSOUYE,Oussouye,KATABA 2,,Djinaky
+ZIGUINCHOR,OUSSOUYE,Oussouye,KATABA 3,,Kafontine
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENGHORI,,Niamone Tenghori
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENGHORI,,Ouonck
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENGHORI,,Coubalan
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENDOUCK,,Balinghore
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENDOUCK,,Diégoune
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENDOUCK,,Kartiack
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENDOUCK,,Mangagoulack
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,TENDOUCK,,Mlom
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,SINDIAN,,Djibidione
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,SINDIAN,,Oulampane
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,SINDIAN,,Sindian
+ZIGUINCHOR,BIGNONA,Bignona Thionck-Essyl Diouloulou,SINDIAN,,Suelle
