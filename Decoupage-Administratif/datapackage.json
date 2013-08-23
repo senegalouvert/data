@@ -17,6 +17,11 @@
       "schema": {
         "fields": [
           {
+            "id": "CODE REGION",
+            "type": "string",
+            "description": "ISO 3166-2:SN est l'entrée pour le Sénégal dans la norme ISO 3166-2"
+          },
+          {
             "id": "REGION",
             "type": "string"
           },
