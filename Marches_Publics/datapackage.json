@@ -1,0 +1,76 @@
+{
+  "name": "Marches_Publics",
+  "title": "Marchés publics du Sénégal",
+  "sources": [{
+    "name": "ARMP",
+    "web": "http://www.marchespublics.sn/pmb/index.php?option=com_stats&task=afficheTacmaq&Itemid=141"
+  }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "attribution_marche_armp_senegal.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "numero",
+            "type": "string"
+          },
+          {
+            "id": "date",
+            "type": "date"
+          },
+          {
+            "id": "code",
+            "type": "string"
+          },
+          {
+            "id": "annee",
+            "type": "date",
+            "format": "yyyy"
+          },
+          {
+            "id": "titre",
+            "type": "string"
+          },
+          {
+            "id": "mode",
+            "type": "string"
+          },
+          {
+            "id": "type",
+            "type": "string"
+          },
+          {
+            "id": "entité",
+            "type": "string"
+          },
+          {
+            "id": "sous-entité",
+            "type": "string"
+          },
+          {
+            "id": "montant",
+            "type": "number"
+          },
+          {
+            "id": "devise",
+            "type": "string"
+          },
+          {
+            "id": "taxes",
+            "type": "string"
+          },
+          {
+            "id": "titulaire",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
