@@ -1,9 +1,6 @@
 Marchés publics passés par les différents ministères, collectivités locales, sociétés nationales, sociétés à participation publique majoritaire...
 
 ## Marchés publics du Sénégal
-
-## Outils : Open Spending (http://openspending.org/)
-
 ### DECRET N° 2011 -1048 DU 27 JUILLET 2011 PORTANT CODE DES MARCHES PUBLICS
 
 En application du Code des Obligations de l’Administration et de la loi n° 90-07 du 26 juin 1990, 
@@ -16,6 +13,8 @@ que la passation et le contrôle des contrats portant participation à l'exécut
 public.
 
 ## Sources : Autorité de Régulation des Marchés Publics (ARMP) et de la Direction Centrale des Marchés Publics (DCMP).
+
+## Outils : Open Spending (http://openspending.org/)
 
 ### http://openspending.org/marches-publics-senegal
 #### Afin de pouvoir être facilement analysées, exploitées, et communiquées.
