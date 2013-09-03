@@ -2,18 +2,7 @@ Marchés publics passés par les différents ministères, collectivités locales
 
 ## Marchés publics du Sénégal
 
-Décret n° 2008-1025 du 10 septembre 2008 fixant le ressort territorial et le Chef-lieu des régions, départements et arrondissements.
-
 ## Outils : Open Spending (http://openspending.org/)
-
-### http://openspending.org/marches-publics-senegal
-#### Afin de pouvoir être facilement analysées, exploitées, et communiquées.
-
-# Contributeurs
-
-Dans le cadre du Tandem Dakar-Paris proposé par l’Institut Français, une semaine de séminaires et d’ateliers autour du numérique et de la culture libre a eu lieu à Dakar. Cette série d’événements co-organisée par l’Institut Français et les espaces de coworking Jokkolabs et La Cantine a rassemblé du 15 au 18 mai des représentants de Wikimédia France, Regards Citoyens, Open Knowledge Foundation France ainsi que des acteurs de la communauté sénégalaise : Humanitarian OpenStreepMap Team Sénégal, Campus Numérique de l’AUF, DakarLug, Mozilla. - plus d'info: http://fr.okfn.org/2013/05/27/open-data-senegal-retour-sur-le-tandem-dakar-paris/
-
-## Sources : Autorité de Régulation des Marchés Publics (ARMP) et de la Direction Centrale des Marchés Publics (DCMP).
 
 ### DECRET N° 2011 -1048 DU 27 JUILLET 2011 PORTANT CODE DES MARCHES PUBLICS
 
@@ -25,6 +14,15 @@ des marchés conclus par les personnes morales mentionnées à l'article 2, pour
 leurs besoins en matière de réalisation de travaux et d'achat de fournitures ou de services, ainsi 
 que la passation et le contrôle des contrats portant participation à l'exécution d'un service 
 public.
+
+## Sources : Autorité de Régulation des Marchés Publics (ARMP) et de la Direction Centrale des Marchés Publics (DCMP).
+
+### http://openspending.org/marches-publics-senegal
+#### Afin de pouvoir être facilement analysées, exploitées, et communiquées.
+
+# Contributeurs
+
+Dans le cadre du Tandem Dakar-Paris proposé par l’Institut Français, une semaine de séminaires et d’ateliers autour du numérique et de la culture libre a eu lieu à Dakar. Cette série d’événements co-organisée par l’Institut Français et les espaces de coworking Jokkolabs et La Cantine a rassemblé du 15 au 18 mai des représentants de Wikimédia France, Regards Citoyens, Open Knowledge Foundation France ainsi que des acteurs de la communauté sénégalaise : Humanitarian OpenStreepMap Team Sénégal, Campus Numérique de l’AUF, DakarLug, Mozilla. - plus d'info: http://fr.okfn.org/2013/05/27/open-data-senegal-retour-sur-le-tandem-dakar-paris/
 
 ## License
 Licence ODbL (Open Database Licence)
