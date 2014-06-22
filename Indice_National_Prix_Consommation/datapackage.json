@@ -3,7 +3,7 @@
   "title": "INDICE NATIONAL DES PRIX À LA CONSOMMATION (I.N.P.C.)",
   "sources": [{
     "name": "ANSD",
-    "web": "http://www.ansd.sn/INPC_mensuel.html"
+    "web": "http://www.ansd.sn/index.php?option=com_ansd&view=titrepublication&id=8"
   }],
   "licenses": [
     {
