@@ -1,6 +1,1 @@
 https://github.com/senegalouvert/data/tree/master/Repartition-Population-1970-2005
-https://github.com/senegalouvert/data/tree/master/Indice_National_Prix_Consommation
-https://github.com/senegalouvert/data/tree/master/Observatoires-Internet
-https://github.com/senegalouvert/data/tree/master/Decoupage-Administratif
-https://github.com/senegalouvert/data/tree/master/Education
-https://github.com/senegalouvert/data/tree/master/Marches_Publics
