@@ -13,28 +13,38 @@
   ],
   "resources": [
     {
-      "path": "data/Repartition_population_selon_sexe_1970_2005.csv",
+      "path": "Repartition_population_selon_sexe_1970_2005.csv",
       "schema": {
         "fields": [
           {
-            "name": "Années",
+            "id": "Années",
             "type": "date",
             "format": "yyyy"
           },
           {
-            "name": "Population totale",
+            "id": "Population totale",
             "type": "number",
             "description": "Total population"
           },
           {
-            "name": "Hommes",
+            "id": "Hommes",
             "type": "number"
           },
           {
-            "name": "Femmes",
+            "id": "Femmes",
             "type": "number"
           }
         ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "Années",
+        "series": [ "Population totale" ]
       }
     }
   ]
