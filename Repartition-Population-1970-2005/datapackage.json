@@ -17,21 +17,21 @@
       "schema": {
         "fields": [
           {
-            "id": "Années",
+            "name": "Années",
             "type": "date",
             "format": "yyyy"
           },
           {
-            "id": "Population totale",
+            "name": "Population totale",
             "type": "number",
             "description": "Total population"
           },
           {
-            "id": "Hommes",
+            "name": "Hommes",
             "type": "number"
           },
           {
-            "id": "Femmes",
+            "name": "Femmes",
             "type": "number"
           }
         ]
