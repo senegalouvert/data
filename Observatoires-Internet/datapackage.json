@@ -13,7 +13,7 @@
   ],
   "resources": [
     {
-      "path": "Internet.csv",
+      "path": "data/Internet.csv",
       "schema": {
         "fields": [
           {

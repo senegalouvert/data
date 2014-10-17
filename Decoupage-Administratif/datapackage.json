@@ -13,7 +13,7 @@
   ],
   "resources": [
     {
-      "path": "decoupage-administratif.csv",
+      "path": "data/decoupage-administratif.csv",
       "schema": {
         "fields": [
           {

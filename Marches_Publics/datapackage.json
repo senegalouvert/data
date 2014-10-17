@@ -13,7 +13,7 @@
   ],
   "resources": [
     {
-      "path": "attribution_marche_armp_senegal.csv",
+      "path": "data/attribution_marche_armp_senegal.csv",
       "schema": {
         "fields": [
           {

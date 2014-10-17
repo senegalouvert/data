@@ -13,7 +13,7 @@
   ],
   "resources": [
     {
-      "path": "Education.csv",
+      "path": "data/Education.csv",
       "schema": {
         "fields": [
           {
