@@ -1,41 +1,50 @@
 {
-  "name": "gdp",
-  "title": "Country, Regional and World GDP (Gross Domestic Product)",
-  "description": "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV.",
-  "license": "PDDL-1.0",
-  "keywords": [ "GDP", "World", "Gross Domestic Product", "Time series" ],
-  "version": "2011",
-  "last_updated": "2011-09-21",
-  "image": "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
+  "name": "Repartition-Population-1970-2005",
+  "title": "Répartition de la population selon le sexe de 1970 à 2005",
   "sources": [{
-    "name": "World Bank and OECD",
-    "web": "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+    "name": "ANSD",
+    "web": "http://www.ansd.sn/publications/annuelles/population-du-Senegal/population_Senegal_1970_2005.pdf"
   }],
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
   "resources": [
     {
-      "path": "data/gdp.csv",
+      "path": "Repartition_population_selon_sexe_1970_2005.csv",
       "schema": {
         "fields": [
           {
-            "name": "Country Name",
-            "type": "string"
-          },
-          {
-            "name": "Country Code",
-            "type": "string",
-            "foreignkey": "iso-3-geo-codes/id"
-          },
-          {
-            "name": "Year",
+            "id": "Années",
             "type": "date",
             "format": "yyyy"
           },
           {
-            "name": "Value",
-            "description": "GDP in current USD", 
+            "id": "Population totale",
+            "type": "number",
+            "description": "Total population"
+          },
+          {
+            "id": "Hommes",
+            "type": "number"
+          },
+          {
+            "id": "Femmes",
             "type": "number"
           }
         ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "graph",
+      "type": "Graph",
+      "state": {
+        "group": "Années",
+        "series": [ "Population totale" ]
       }
     }
   ]
