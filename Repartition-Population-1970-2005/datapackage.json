@@ -37,15 +37,5 @@
         ]
       }
     }
-  ],
-  "views": [
-    {
-      "id": "graph",
-      "type": "Graph",
-      "state": {
-        "group": "Années",
-        "series": [ "Population totale" ]
-      }
-    }
   ]
 }
