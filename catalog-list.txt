@@ -1,3 +1,2 @@
 https://github.com/senegalouvert/Population-Senegal
-https://github.com/senegalouvert/data/tree/master/Decoupage-Administratif
-https://github.com/senegalouvert/data/tree/master/Education
+
