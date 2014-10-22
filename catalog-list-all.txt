@@ -1,1 +1,3 @@
-https://github.com/senegalouvert/Population-Senegal
+https://github.com/senegalouvert/data/tree/master/Education
+https://github.com/senegalouvert/data/tree/master/Indice_National_Prix_Consommation
+https://github.com/senegalouvert/data/tree/master/Marches_Publics
