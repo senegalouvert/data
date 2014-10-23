@@ -1,3 +1,3 @@
-https://github.com/DemocracyClub/ge2015-candidates
-https://github.com/ElenaTomas/FirstTest
-https://github.com/PV-Log/Open-Inverter-Database
+https://github.com/datasets/country-codes
+https://github.com/datasets/bond-yields-uk-10y
+http://data.okfn.org/data/core/bond-yields-us-10y
