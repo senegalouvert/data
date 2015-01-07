@@ -8,4 +8,9 @@ https://github.com/senegalouvert/Indice_National_Prix_Consommation
 https://github.com/senegalouvert/population-senegal-recensee
 https://github.com/senegalouvert/Education
 https://github.com/senegalouvert/depute-as-nat-sn
-https://github.com/senegalouvert/depute-as-nat-sn
+https://github.com/senegalouvert/arachides-avec-la-coquille
+https://github.com/senegalouvert/carbureacteurs
+https://github.com/senegalouvert/commerce-des-marchandises-Cereales
+https://github.com/senegalouvert/commerce-des-marchandises-et-ouvrages-en-etain
+https://github.com/senegalouvert/commerce-des-marchandises-coton
+https://github.com/senegalouvert/commerce-des-marchandises-animaux-vivants
