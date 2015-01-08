@@ -14,3 +14,8 @@ https://github.com/senegalouvert/commerce-des-marchandises-Cereales
 https://github.com/senegalouvert/commerce-des-marchandises-et-ouvrages-en-etain
 https://github.com/senegalouvert/commerce-des-marchandises-coton
 https://github.com/senegalouvert/commerce-des-marchandises-animaux-vivants
+https://github.com/senegalouvert/Deces-dus-au-SIDA
+https://github.com/senegalouvert/electricite-total
+https://github.com/senegalouvert/elevage-primaire
+https://github.com/senegalouvert/elevage-transforme
+https://github.com/senegalouvert/Enseignement-primaire-CITE-1-inscription-4e-annee
