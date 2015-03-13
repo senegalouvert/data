@@ -1,6 +1,5 @@
 https://github.com/senegalouvert/Population-Senegal
 https://github.com/senegalouvert/Decoupage-Administratif
-https://github.com/senegalouvert/senegal-villages
 https://github.com/senegalouvert/bce-data
 https://github.com/senegalouvert/Observatoires-Internet
 https://github.com/senegalouvert/Marches_Publics
